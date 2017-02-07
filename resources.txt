@@ -1,0 +1,8 @@
+.skill {
+  padding-top: 10px;
+  max-width: 100%;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+http://i.giphy.com/bAH0F5oK1QUow.gif
