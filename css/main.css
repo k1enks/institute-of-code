@@ -16,7 +16,7 @@ body {
 }
 
 h1,h2,h3, h4, h5 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Comic Sans MS';
 }
 
 h2,h3,h4 {
@@ -76,7 +76,7 @@ a {
 }
 
 .about {
-  background-color: #69747C;
+  background-color: #53B637;
   color: #212D40;
   margin: 10% 10% 8% 10%;
   padding: 40px 40px;
@@ -103,7 +103,7 @@ a {
 }
 
 #contact {
-  background-color: #69747C;
+  background-color: #53B637;
   margin-top: 10%;
   padding: 40px 40px;
   color: #212D40;
